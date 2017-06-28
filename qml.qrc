@@ -1,0 +1,11 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>FileMenu.qml</file>
+        <file>MyButton.qml</file>
+        <file>MyMenuBar.qml</file>
+        <file>EditMenu.qml</file>
+        <file>MyTextArea.qml</file>
+        <file>images/arrow2.png</file>
+    </qresource>
+</RCC>
